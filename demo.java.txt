@@ -4,6 +4,6 @@ class Mastan
    {
       System.out.println("Hellow world");
 
-      System.out.println("Hellow world")
+      System.out.println("Hellow world");
    }
 }
